@@ -1,0 +1,2 @@
+# bats
+More than binary
